@@ -1,5 +1,5 @@
 # Word2Pdf
-A Simple GUI based Word2Pdf converter
+A Simple GUI based Word2Pdf converter based on the docx2pdf library
 
 ## Instructions for Usage
 1. Run the gui.py file 
